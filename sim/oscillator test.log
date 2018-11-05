@@ -1,0 +1,31 @@
+Circuit: * D:\WORK\Project\Github\Buzzer_Sounder\sim\oscillator test.asc
+
+x1:c1: Increased Cpar to 7.1e-015
+x1:u1:vm: Missing value, assumed 0V @ DC
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+
+Date: Fri Nov 02 18:37:38 2018
+Total elapsed time: 0.312 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 18778
+traniter = 18774
+tranpoints = 5544
+accept = 4010
+rejected = 1534
+matrix size = 12
+fillins = 10
+solver = Alternate
+Matrix Compiler1: 1.20 KB object code size  0.4/0.4/[0.2]
+Matrix Compiler2: 1.17 KB object code size  0.3/0.4/[0.3]
+

@@ -1,0 +1,21 @@
+Circuit: * D:\WORK\Project\Github\Buzzer_Sounder\sim\oscillator test_bjt.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Nov 05 15:03:41 2018
+Total elapsed time: 1.153 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 95227
+traniter = 95222
+tranpoints = 27539
+accept = 19788
+rejected = 7751
+matrix size = 27
+fillins = 22
+solver = Alternate
+Matrix Compiler1: 3.32 KB object code size  1.0/0.5/[0.4]
+Matrix Compiler2: 2.88 KB object code size  0.4/0.5/[0.3]
+
